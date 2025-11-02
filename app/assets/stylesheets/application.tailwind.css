@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+@import "./fonts.css";
+@import "tailwindcss";
+
+@theme {
+  --color-black-100: #111;
+  --color-black-200: #222;
+  --color-black-300: #333;
+  --color-black-600: #667;
+  --color-black-700: #777;
+  --color-black-800: #888;
+  --color-yellow: rgb(249, 166, 0);
+  --color-emerald: #50C878;
+  --color-grayish-blue: rgb(33, 40, 49);
+  --color-green: #147d55;
+  --color-orange-salmon: rgb(185, 91, 70);
+  --color-sheet: #eeece3;
+  --color-white-coffee: #e3dfd5;
+  --font-sans: "Cabin", sans-serif;
+}
